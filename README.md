@@ -5,3 +5,8 @@
 # About Collection
 All API projects used in the assistance of gathering data, moving data, and deleting data, from user applications. Created using Python and MySQL Database. 
 
+# Projects Developed With...
+* MySQL
+* Flask
+* Jsonify
+
