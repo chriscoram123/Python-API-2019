@@ -10,3 +10,5 @@ All API projects used in the assistance of gathering data, moving data, and dele
 * Flask
 * Jsonify
 
+# Developer:
+Christopher S Coram
